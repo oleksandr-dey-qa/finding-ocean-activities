@@ -45,3 +45,8 @@ This repository contains structured testing checklists for the **Epic Ocean Guid
 - [ ] **Google Analytics 4 (GA4):** Track scripts ensuring live traffic recording through the real-time reporting dashboard.
 - [ ] **Google Search Console:** Verify that domain property verification is active and working.
 - [ ] **Form Integrations:** End-to-end testing of data routing on newsletter fields to make sure the backend captures subscription strings correctly.
+
+## 📂 Документація проєкту
+Для перегляду детальних тест-кейсів перейдіть за посиланнями:
+* 🚀 [Чек-ліст для BVT (Build Verification Test)](bvt_checklist.md)
+* 📋 [Комплексний чек-ліст сайту (Technical, UX/UI, SEO)](comprehensive_checklist.md)
